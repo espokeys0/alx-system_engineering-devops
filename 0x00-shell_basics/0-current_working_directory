@@ -1,3 +1,2 @@
-print the current directory
-
-
+#!/bin/bash
+pwd
